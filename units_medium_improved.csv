@@ -1,0 +1,41 @@
+unit_id,unit_number,unit_type,make,model,year,current_km,engine_hours,avg_km_per_day,status,primary_location
+1,T2001,Tractor,Volvo,Reefer,2019,456787,8305,514,Active,Cambridge
+2,T2002,Tractor,Utility,579,2015,231244,4204,447,Active,Milton
+3,T2003,Tractor,Utility,VNL,2023,639898,11634,512,Spare,Hamilton
+4,TR2004,Trailer,Volvo,VNL,2021,556778,10123,542,Active,Milton
+5,TR2005,Trailer,Volvo,T680,2021,301414,5480,583,Spare,Hamilton
+6,TR2006,Trailer,Volvo,Reefer,2022,762275,13859,463,Spare,Cambridge
+7,TR2007,Trailer,Great Dane,DX,2020,805397,14643,498,In Shop,Cambridge
+8,T2008,Tractor,Great Dane,VNL,2019,283667,5157,837,Active,Cambridge
+9,TR2009,Trailer,Kenworth,579,2020,370555,6737,589,Spare,Milton
+10,TR2010,Trailer,Great Dane,Reefer,2016,838720,15249,725,Active,Hamilton
+11,T2011,Tractor,Freightliner,579,2021,483060,8782,873,In Shop,Hamilton
+12,T2012,Tractor,Great Dane,Cascadia,2015,440174,8003,820,Active,Guelph
+13,TR2013,Trailer,Kenworth,T680,2018,794731,14449,848,In Shop,Guelph
+14,T2014,Tractor,Great Dane,579,2021,874079,15892,634,Active,Guelph
+15,T2015,Tractor,Freightliner,Reefer,2023,765158,13911,534,In Shop,Hamilton
+16,TR2016,Trailer,Utility,579,2020,429974,7817,470,In Shop,London
+17,T2017,Tractor,Volvo,T680,2017,857924,15598,481,In Shop,London
+18,T2018,Tractor,Peterbilt,579,2022,754816,13723,528,In Shop,Cambridge
+19,T2019,Tractor,Great Dane,DX,2019,872097,15856,574,Active,Guelph
+20,TR2020,Trailer,Freightliner,579,2015,476183,8657,897,In Shop,Milton
+21,T2021,Tractor,Great Dane,Cascadia,2023,838551,15246,501,Active,Guelph
+22,T2022,Tractor,Utility,DX,2015,828038,15055,565,Spare,Cambridge
+23,T2023,Tractor,Kenworth,Cascadia,2018,260738,4740,523,In Shop,Cambridge
+24,T2024,Tractor,Great Dane,579,2016,758582,13792,792,Active,Milton
+25,TR2025,Trailer,Utility,VNL,2019,753306,13696,846,In Shop,London
+26,T2026,Tractor,Utility,Reefer,2018,526858,9579,604,In Shop,Guelph
+27,TR2027,Trailer,Utility,579,2016,459947,8362,515,Active,Guelph
+28,T2028,Tractor,Utility,DX,2018,817024,14854,512,Active,Cambridge
+29,T2029,Tractor,Freightliner,T680,2015,546479,9935,436,In Shop,Milton
+30,TR2030,Trailer,Great Dane,579,2018,765427,13916,467,In Shop,Hamilton
+31,TR2031,Trailer,Freightliner,579,2021,399659,7266,448,Active,London
+32,TR2032,Trailer,Peterbilt,579,2022,256802,4669,744,In Shop,Cambridge
+33,T2033,Tractor,Peterbilt,Reefer,2020,314576,5719,527,Active,Milton
+34,TR2034,Trailer,Freightliner,579,2017,492075,8946,636,Active,Cambridge
+35,TR2035,Trailer,Utility,T680,2015,883823,16069,676,Active,Cambridge
+36,T2036,Tractor,Freightliner,579,2022,704740,12813,509,Spare,Cambridge
+37,T2037,Tractor,Peterbilt,T680,2021,478085,8692,874,Spare,Guelph
+38,TR2038,Trailer,Great Dane,Reefer,2023,894022,16254,767,Spare,Milton
+39,T2039,Tractor,Kenworth,VNL,2015,807314,14678,776,In Shop,Cambridge
+40,TR2040,Trailer,Volvo,T680,2022,727276,13223,870,In Shop,Milton
