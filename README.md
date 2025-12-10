@@ -5,6 +5,12 @@ It provides insights into fleet health by analyzing service reminders, predictiv
 
 The project simulates real-world fleet operations and demonstrates how to reduce breakdowns, optimize service schedules, and manage maintenance costs.
 
+### 🔹 Service Reminders Dashboard  
+![Service Reminders Dashboard](service_dashboard.png)
+
+### 🔹 Breakdown Analysis Dashboard  
+![Breakdown Dashboard](breakdown_dashboard.png)
+
 ---
 
 ## Project Overview
